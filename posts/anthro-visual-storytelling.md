@@ -4,6 +4,7 @@ title: New Directions in Anthropomorphic Visual Storytelling
 ---
 
 Long form:
+
 * RRUFFURR
 * Rory Frances
     * Little Teeth
@@ -20,12 +21,15 @@ Long form:
     * PIES
 
 Short form:
+
 * Redacteur
 * Rumwick
 
 Animated:
+
 * k-eke
 * Tirrel
 
 Games:
+
 * Undertale

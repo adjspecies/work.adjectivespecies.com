@@ -25,6 +25,6 @@ EOF
 # ignored.
 for i in `ls $1/*.md` ; do
     title=$(grep "title: " $i|sed -e 's/title: \(.*\)/[\1]/')
-    link=$(echo $i | sed -e 's/\(.*\)\.md/(\1.html)/')
+    link=$(echo $i | sed -e 's/\(.*\)\.md/(\/\1.html)/')
     echo "* $title$link" >> $1/index.md
 done
