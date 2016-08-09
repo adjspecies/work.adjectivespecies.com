@@ -36,6 +36,14 @@ section {
     padding: 1em;
     min-height: 2em;
     position: relative;
+    font-size: 14pt;
+    line-height: 24px;
+}
+
+section p,
+section table * {
+    font-size: 14pt;
+    line-height: 24px;
 }
 
 section img {
