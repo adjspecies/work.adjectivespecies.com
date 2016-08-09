@@ -13,6 +13,8 @@ See [here](http://www.adjectivespecies.com/2011/11/09/the-default-furry/) for mo
 
 ![By Floe](http://assets.adjectivespecies.com/lsf-header-fit.jpg)
 
+![By Floe](floe--survey-big--randomwolf.png)
+
 ![By Erin Middendorf](erin-middendorf--badge--randomwolf.jpg)
 
 ![By Grey White](grey--interview-small--randomwolf.jpg)
