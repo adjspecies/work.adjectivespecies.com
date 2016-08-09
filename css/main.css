@@ -37,13 +37,13 @@ section {
     min-height: 2em;
     position: relative;
     font-size: 14pt;
-    line-height: 24px;
+    line-height: 28px;
 }
 
 section p,
 section table * {
     font-size: 14pt;
-    line-height: 24px;
+    line-height: 28px;
 }
 
 section img {
