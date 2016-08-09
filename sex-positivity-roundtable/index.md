@@ -10,7 +10,7 @@ After Grey's [fursuit comic on Oh Joy Sex Toy](http://www.ohjoysextoy.com/fursui
 
 ## Purpose
 
-Lets sit down and talk about sex-positivity (and negativity!) within furry.  We have a complex relationship with sex, and it shows in the ways in which we speak and act.  Are we really as sex-positive as we like to say we are?  Are non-furries relaly so sex-negative?  What even is sex-positivity, and how does that play into a fandom that many see as a safe place to explore sexually?
+Let's sit down and talk about sex-positivity (and negativity!) within furry.  We have a complex relationship with sex, and it shows in the ways in which we speak and act.  Are we really as sex-positive as we like to say we are?  Are non-furries really so sex-negative?  What even is sex-positivity, and how does that play into a fandom that many see as a safe place to explore sexually?
 
 ## Potential participants
 
