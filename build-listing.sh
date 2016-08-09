@@ -6,7 +6,7 @@ if [ -z $1 ] ; then
     exit 1
 fi
 
-# It should be a directory, absolute or relative.
+# It should be a directory, relative to the root dir.
 if ! [ -d $1 ] ; then
     echo "That's not a dir!"
     exit 2
