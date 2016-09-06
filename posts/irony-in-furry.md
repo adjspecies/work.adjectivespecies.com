@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editorial: On Irony
+title: "Editorial: On Irony"
 ---
 
 Sixteen years ago, I was a not-so-wee lad just starting his freshman year of high school.  I had grown a foot and a half in the previous few years, and my voice had fallen down the staircase from alto to baritone.  I had just come out to my mom as gay.  My favorite saying, which my step-mother hated, was "sarcasm makes the world go 'round".
