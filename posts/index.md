@@ -8,6 +8,7 @@ title: Projects in progress in posts/
 * [Domination and Submission in the Furry Subculture](/posts//dom-sub.html)
 * [Furries, Epicurus, and the hedonistic paradox](/posts//epicurus.html)
 * [Projects in progress in posts/](/posts//index.html)
+* [Editorial: On Irony](/posts//irony-in-furry.html)
 * [Language In Furry](/posts//language-in-furry.html)
 * [On Friends](/posts//on-friends.html)
 * ["Editorial: On Coming of Age"](/posts//on-species.html)
