@@ -63,7 +63,7 @@ I was also tackling depression in more tangible ways, of course. I started on me
 
 I started transition, too, which helped improve my life in so many ways that I ~~could~~ did write ~~a~~ several posts about it. I won't gush about it too much more, here.
 
-Not all of this flailing was healthy, natch. I burned the shit out of my arms and legs because at least that'd set up a bright magnesium flare in the center of all that nothing. I started drinking heavily, because that'd soften the edges of nothing. I started withdrawing from friends because the weren't there in the nothing with me.
+Not all of this flailing was healthy, natch. <span style="color: #aaa">I burned the shit out of my arms and legs because at least that'd set up a bright magnesium flare in the center of all that nothing.</span> I started drinking heavily, because that'd soften the edges of nothing. I started withdrawing from friends because the weren't there in the nothing with me.
 
 And it all got to be too much. A few weeks after my last substantial post here, I collapsed in the kitchen, and there was a whole lot more nothing than I was used to. At Mountain Crest, the mental health clinic in Fort Collins, I was taken into an office for a few hours to talk about meds, alcohol, interactions, and so on.
 
@@ -79,7 +79,7 @@ I ran for - and was elected - president of the Furry Writers' Guild.
 
 And [a][s] *still* sat here.
 
-Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.
+Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. <span style="color: #ccc">I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.</span> <span style="color: #cfc">Again.</span>
 
 Anyway.
 
@@ -101,10 +101,10 @@ This could also mean that my role as editor needs to shift. I would more than ha
 
 But above even that, [a][s] itself needs to change. We need to have a conversation about what needs this resource fills.
 
-* What roles does the project play within the fandom, now that it's been around for for five and a half years?</li>
-* Are articles and data still the best way to engage with an audience, or should we branch out?</li>
-* Is the voice of the project too broad, or not broad enough?</li>
-* Should the project try to expand, or reduce its scope? Should it spin off new projects, or should it - and we need to admit this as a possibility - decide that 5 years was a good run and draw a line at the end of the page?</li>
+* What roles does the project play within the fandom, now that it's been around for for five and a half years?
+* Are articles and data still the best way to engage with an audience, or should we branch out?
+* Is the voice of the project too broad, or not broad enough?
+* Should the project try to expand, or reduce its scope? Should it spin off new projects, or should it - and we need to admit this as a possibility - decide that 5 years was a good run and draw a line at the end of the page?
 
 [a][s] is a good thing. I'll always stand by that. It became a resource for talking about the fandom from several different angles. Writers picked up their own voices and added them into this weird and weirdly wonderful stream of posts that ran on for years.
 
@@ -115,6 +115,8 @@ The comments are open, of course, but please do feel free to [email me directly]
 -----
 
 ## Draft feedback
+
+Note: <span style="color: #ccc">remove</span> <span style="color: #cfc">add</span>
 
 > I think I like it. It perhaps goes overmuch into a lot of the gory details (and gods DAMMIT Maddy, how dare you have all these issues and straight-up write a will and a suicide note and not at least poke me for a helpful ear? :S) of the whys and wherefores of your depression - which if it's what you want, is fine. There's something of a martyrness to it, thankfully not oppressively, but to some extent I feel like you might be making a big deal over not much. I don't have the actual figures on readership, but given the state of the comment sections I don't imagine a lot of people have been tearing their hair and beating their breasts over the hiatus - though it has been, don't mistake me here, a significant loss. On the whole - it's well-written, and gives sufficient reason and background. I just don't know if you'll have a substantive conversational partner for the questions you ask at the end.
 
