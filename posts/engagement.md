@@ -65,7 +65,7 @@ I started transition, too, which helped improve my life in so many ways that I ~
 
 Not all of this flailing was healthy, natch. I burned the shit out of my arms and legs because at least that'd set up a bright magnesium flare in the center of all that nothing. I started drinking heavily, because that'd soften the edges of nothing. I started withdrawing from friends because the weren't there in the nothing with me.
 
-And it all got to be too much. A few weeks after my last substantial post here,̨ I collapsed in the kitchen, and there was a whole lot more nothing than I was used to. At Mountain Crest, the mental health clinic in Fort Collins, I was taken into an office for a few hours to talk about meds, alcohol, interactions, and so on.
+And it all got to be too much. A few weeks after my last substantial post here, I collapsed in the kitchen, and there was a whole lot more nothing than I was used to. At Mountain Crest, the mental health clinic in Fort Collins, I was taken into an office for a few hours to talk about meds, alcohol, interactions, and so on.
 
 With my new-found sobriety (or at least moderation) under my belt, I started getting back into the furry thing, the healthier way of filling a tiny corner that infinitely empty space with meaning.
 
@@ -79,7 +79,7 @@ I ran for - and was elected - president of the Furry Writers' Guild.
 
 And [a][s] *still* sat here.
 
-Those few months when I was burning too bright in an attempt to light up vast, crenelated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.
+Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.
 
 Anyway.
 
@@ -111,3 +111,9 @@ But above even that, [a][s] itself needs to change. We need to have a conversati
 So. With the idea that [a][s] should *remain* a good thing, what are our next steps?
 
 The comments are open, of course, but please do feel free to [email me directly](mailto:makyo@adjectivespecies.com), hit me up on [twitter](https://twitter.com/drab_makyo), or on [mastodon](https://mastodon.social/@makyo) if you would like!
+
+-----
+
+## Draft feedback
+
+> I think I like it. It perhaps goes overmuch into a lot of the gory details (and gods DAMMIT Maddy, how dare you have all these issues and straight-up write a will and a suicide note and not at least poke me for a helpful ear? :S) of the whys and wherefores of your depression - which if it's what you want, is fine. There's something of a martyrness to it, thankfully not oppressively, but to some extent I feel like you might be making a big deal over not much. I don't have the actual figures on readership, but given the state of the comment sections I don't imagine a lot of people have been tearing their hair and beating their breasts over the hiatus - though it has been, don't mistake me here, a significant loss. On the whole - it's well-written, and gives sufficient reason and background. I just don't know if you'll have a substantive conversational partner for the questions you ask at the end.
