@@ -59,7 +59,7 @@ And you know what? It worked.
 
 At least, after a fashion. I started to feel fulfillment. I started *filling* my weekends with writing. I got in trouble with JM for writing an article on a tablet in a plane just so that I could get it up on a Wednesday. I started to gain energy just from the act of spending energy on something I loved wholeheartedly.
 
-I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly don't make me any less myself, but they do help me perceive where I am. They're a fine set of glasses for helping me see which things I'm burning myself up over are real, and which are just phantoms in that empty space - Makyo, after all, means 'ghost cave'.
+I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly don't make me any less myself, but they do help me perceive where I am. They're a fine set of glasses for helping me see which things I'm burning myself up over are real, and which are just phantoms in that empty space --- Makyo, after all, means 'ghost cave'.
 
 I started transition, too, which helped improve my life in so many ways that I ~~could~~ did write ~~a~~ several posts about it. I won't gush about it too much more, here.
 
