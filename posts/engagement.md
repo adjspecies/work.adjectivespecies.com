@@ -47,7 +47,7 @@ And yet I keep trying. [*We* keep trying.](http://www.adjectivespecies.com/tag/d
 
 Much of early [a][s] was borne out of depression. The site was just a blog, the name just a play on a trend in character naming, but the writing was a piece of myself. Each post was a tiny rock to throw at this vasty nothingness. Justifying the things I like, delineating the craziness of our subculture, gushing about gender (I know, I'm sorry, I did that a lot), these were all ways for me to pound my fists against nothing at all.
 
-A scant five months after I started the site, I <span style="color: ccc">tried to commit suicide</span><span style="color #0f0">crashed hard</span>, and after that, I just buried myself in it - in the site and in furry. I found ways to get even furrier, if that was possible, just to try and fill that big ol' nothingness.
+A scant five months after I started the site, I <span style="color: #ccc">tried to commit suicide</span><span style="color #0f0">crashed hard</span>, and after that, I just buried myself in it - in the site and in furry. I found ways to get even furrier, if that was possible, just to try and fill that big ol' nothingness.
 
 I splashed around in great heaps of data, scrabbling at every pebble of knowledge I could find beneath the surface.
 
