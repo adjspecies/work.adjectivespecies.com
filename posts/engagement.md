@@ -47,7 +47,7 @@ And yet I keep trying. [*We* keep trying.](http://www.adjectivespecies.com/tag/d
 
 Much of early [a][s] was borne out of depression. The site was just a blog, the name just a play on a trend in character naming, but the writing was a piece of myself. Each post was a tiny rock to throw at this vasty nothingness. Justifying the things I like, delineating the craziness of our subculture, gushing about gender (I know, I'm sorry, I did that a lot), these were all ways for me to pound my fists against nothing at all.
 
-A scant five months after I started the site, I <span style="color: #ccc">tried to commit suicide</span><span style="color: #0f0">crashed hard</span>, and after that, I just buried myself in it - in the site and in furry. I found ways to get even furrier, if that was possible, just to try and fill that big ol' nothingness.
+A scant five months after I started the site, I <!--tried to commit suicide--><span class="add">crashed hard</span>, and after that, I just buried myself in it --- in the site and in furry. I found ways to get even furrier, if that was possible, just to try and fill that big ol' nothingness.
 
 I splashed around in great heaps of data, scrabbling at every pebble of knowledge I could find beneath the surface.
 
@@ -63,7 +63,7 @@ I was also tackling depression in more tangible ways, of course. I started on me
 
 I started transition, too, which helped improve my life in so many ways that I ~~could~~ did write ~~a~~ several posts about it. I won't gush about it too much more, here.
 
-Not all of this flailing was healthy, natch. <span style="color: #aaa">I burned the shit out of my arms and legs because at least that'd set up a bright magnesium flare in the center of all that nothing.</span> I started drinking heavily, because that'd soften the edges of nothing. I started withdrawing from friends because the weren't there in the nothing with me.
+Not all of this flailing was healthy, natch. <!--I burned the shit out of my arms and legs because at least that'd set up a bright magnesium flare in the center of all that nothing.--> I started drinking heavily, because that'd soften the edges of nothing. I started withdrawing from friends because the weren't there in the nothing with me.
 
 And it all got to be too much. A few weeks after my last substantial post here, I collapsed in the kitchen, and there was a whole lot more nothing than I was used to. At Mountain Crest, the mental health clinic in Fort Collins, I was taken into an office for a few hours to talk about meds, alcohol, interactions, and so on.
 
@@ -75,11 +75,11 @@ I ran or helped run six panels at FC, was art track lead, and got to spend time 
 
 I started editing a furry fiction anthology, *Arcana*, based around the major arcana of the RWS tarot deck.
 
-I ran for - and was elected - president of the Furry Writers' Guild.
+I ran for --- and was elected --- president of the Furry Writers' Guild.
 
 And [a][s] *still* sat here.
 
-Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. <span style="color: #ccc">I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.</span> <span style="color: #0f0">Again.</span>
+Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. <!--I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.--> <span class="add">Again.</span>
 
 Anyway.
 
@@ -115,8 +115,6 @@ The comments are open, of course, but please do feel free to [email me directly]
 -----
 
 ## Draft feedback
-
-Note: <span style="color: #ccc">remove</span> <span style="color: #0f0">add</span>
 
 > I think I like it. It perhaps goes overmuch into a lot of the gory details (and gods DAMMIT Maddy, how dare you have all these issues and straight-up write a will and a suicide note and not at least poke me for a helpful ear? :S) of the whys and wherefores of your depression - which if it's what you want, is fine. There's something of a martyrness to it, thankfully not oppressively, but to some extent I feel like you might be making a big deal over not much. I don't have the actual figures on readership, but given the state of the comment sections I don't imagine a lot of people have been tearing their hair and beating their breasts over the hiatus - though it has been, don't mistake me here, a significant loss. On the whole - it's well-written, and gives sufficient reason and background. I just don't know if you'll have a substantive conversational partner for the questions you ask at the end.
 
