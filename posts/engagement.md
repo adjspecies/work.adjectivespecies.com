@@ -79,7 +79,7 @@ I ran for - and was elected - president of the Furry Writers' Guild.
 
 And [a][s] *still* sat here.
 
-Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. <span style="color: #ccc">I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.</span> <span style="color: #cfc">Again.</span>
+Those few months when I was burning too bright in an attempt to light up vast, crenellated spaces of nothing caught up with me. I borrowed a little too much time from the future and that nothing started winning out. <span style="color: #ccc">I wrote a will. I wrote a Note. I collapsed again. All that nasty stuff.</span> <span style="color: #0f0">Again.</span>
 
 Anyway.
 
@@ -116,7 +116,7 @@ The comments are open, of course, but please do feel free to [email me directly]
 
 ## Draft feedback
 
-Note: <span style="color: #ccc">remove</span> <span style="color: #cfc">add</span>
+Note: <span style="color: #ccc">remove</span> <span style="color: #0f0">add</span>
 
 > I think I like it. It perhaps goes overmuch into a lot of the gory details (and gods DAMMIT Maddy, how dare you have all these issues and straight-up write a will and a suicide note and not at least poke me for a helpful ear? :S) of the whys and wherefores of your depression - which if it's what you want, is fine. There's something of a martyrness to it, thankfully not oppressively, but to some extent I feel like you might be making a big deal over not much. I don't have the actual figures on readership, but given the state of the comment sections I don't imagine a lot of people have been tearing their hair and beating their breasts over the hiatus - though it has been, don't mistake me here, a significant loss. On the whole - it's well-written, and gives sufficient reason and background. I just don't know if you'll have a substantive conversational partner for the questions you ask at the end.
 
