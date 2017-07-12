@@ -112,7 +112,7 @@ So. With the idea that [a][s] should *remain* a good thing, what are our next st
 
 The comments are open, of course, but please do feel free to [email me directly](mailto:makyo@adjectivespecies.com), hit me up on [twitter](https://twitter.com/drab_makyo), or on [mastodon](https://mastodon.social/@makyo) if you would like!
 
------
+<!--
 
 ## Draft feedback
 
@@ -121,3 +121,5 @@ The comments are open, of course, but please do feel free to [email me directly]
 I get that, yeah. I guess I was kinda trying to combine an article about depresion and furry and an article about the future in one.
 
 But you're right, it gets very about me in the middle.
+
+-->
