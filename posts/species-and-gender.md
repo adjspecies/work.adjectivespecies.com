@@ -129,3 +129,9 @@ And how we're here, with huskies being the most cisgender species, and other dog
 My original quest was to write a trans coming-out story that would find appeal within the fandom. One where many readers would find a bit of themselves in the main character, a character who was relatable. A lot of that's on me, writing an engaging character that mirrors others' experiences, but some of that is just in knowing one's audience, and this is just one fact I can keep in mind.
 
 There's a lot that goes into species selection, just as there's a lot that goes into gender. We make these choices about how we represent ourselves within the fandom carefully, even if it feels instinctive. Each aspect of our characters is representative of some aspect of ourselves. Our hopes and wishes, dreams and aspirations. Things we admire about ourselves are magnified and things that we despise about ourselves are reduced. We become the animal people we want to see in the world.
+
+[^scale]: The survey asks orientation in a sort of expanded Kinsey scale. That is, it asks whether one considers oneself heterosexual or homosexual on a seven point scale. There are other options that we add, but those aren't really in play here for this little example.
+
+[^ratio]: Again, this is a little complicated. The gist is that there are about 80% of respondents who identify as masculine in some way.
+
+[^pun]: Or *bildongsroman*, if you will, when it comes to erotica.
