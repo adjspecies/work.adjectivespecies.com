@@ -19,15 +19,13 @@ Short fiction anthologies come and go within the fandom. There's a schedule of r
 
 They all work in fairly similar ways, too. A call for submissions will go up, say, six months ahead of time with a list of requirements --- genre, rating, word count, etc. --- which will give authors a chance to write or polish a story to submit. In reality, of course, that means that many authors will spend five and a half months talking about the anthology, then two scrambled weeks of intense effort pulling something together. We're pretty predictable like that.
 
-To drag us slowly back on topic, one of those recent calls was for an anthology of lesbian erotica. There has been an awful lot of erotica written and published, and the vast majority of it has been gay or straight (and I'd hazard a guess that a lot of that has been gay). That would make CLAW, this anthology, the first of its kind.
+One of those recent calls was for an anthology of lesbian erotica. There has been an awful lot of erotica written and published, and the vast majority of it has been gay or straight (and I'd hazard a guess that a lot of that has been gay). That would make CLAW, this anthology, the first of its kind.
 
 The reasons for this are manifold and almost certainly not well understood.
 
 Some of them have come up here, of course. JM wrote a few articles on gay furries and why the fandom may look appealing to them. My stock response is a hypothesis that, given the relatively even distribution furries along a scale from heterosexual to homosexual[^scale], along with the overwhelming majority of furries identifying as male, a majority of homosexual relationships within the subculture is to be expected. If you're a bi male fox, you're more likely to wind up in a gay relationship by virtue of your dating pool being 80%[^ratio] male.
 
 Things like that make CLAW's position as the first lesbian anthology a bit easier to understand, at least.
-
-*Come on Makyo, get to the point...*
 
 So! I decided to write for CLAW. I don't write much fiction. I've got one story published in the FC2016 con book, one story to be published in *Arcana*, and...that's it. I thought it'd be fun to give this a go. The stakes were low, the restrictions loose, and the story was fun to write.
 
